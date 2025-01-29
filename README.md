@@ -30,22 +30,23 @@ Make sure **CGAL** is installed on your system. I folowed this video [YouTube Gu
 Additonally, you can check out a demo video here: [YouTube Demo](https://www.youtube.com/watch?v=0peJErZZZTw).
 
 ---
-I added in the git repository every file related to the project, but that will probably not help in any way if you want to run the code on your machine, but that would be really compliccated nonetheless.
-If you want soley look over the code files, these are:
--main.cpp
--Astar.cpp
--Astar.h
--delaunay_trig.cpp
--delaunay_trig.h
--dijkstra.cpp
--dijkstra.h
--discretization.cpp
--discretization.h
--experimentPart.cpp
--experimentPart.h
--graph.h
--read_points.cpp
--read_points.h
--visualization.py
--plotter.py
+## Project Code Files
+
+main.cpp  
+Astar.cpp  
+Astar.h  
+delaunay_trig.cpp  
+delaunay_trig.h  
+dijkstra.cpp  
+dijkstra.h  
+discretization.cpp  
+discretization.h  
+experimentPart.cpp  
+experimentPart.h  
+graph.h  
+read_points.cpp  
+read_points.h  
+visualization.py  
+plotter.py  
+
 
